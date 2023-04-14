@@ -38,6 +38,8 @@
  * this was written.
  */
 
+#include <grpc/support/port_platform.h>
+
 #include "address_sorting_internal.h"
 
 #include <errno.h>

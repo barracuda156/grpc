@@ -25,6 +25,8 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <grpc/support/port_platform.h>
+
 #include "upb/text/encode.h"
 
 #include <ctype.h>

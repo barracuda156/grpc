@@ -16,6 +16,8 @@
 //
 //
 
+#include <grpc/support/port_platform.h>
+
 #include "test/core/end2end/cq_verifier.h"
 
 #include <inttypes.h>

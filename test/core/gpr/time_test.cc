@@ -18,6 +18,8 @@
 
 // Test of gpr time support.
 
+#include <grpc/support/port_platform.h>
+
 #include <inttypes.h>
 #include <stdio.h>
 #include <string.h>

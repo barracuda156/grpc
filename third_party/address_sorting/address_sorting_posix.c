@@ -38,6 +38,8 @@
  * this was written.
  */
 
+#include <grpc/support/port_platform.h>
+
 #include "address_sorting_internal.h"
 
 #if defined(ADDRESS_SORTING_POSIX)

@@ -14,6 +14,8 @@
 // limitations under the License.
 //
 
+#include <grpc/support/port_platform.h>
+
 #include "src/cpp/server/backend_metric_recorder.h"
 
 #include <inttypes.h>

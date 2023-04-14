@@ -16,6 +16,8 @@
 //
 //
 
+#include <grpc/support/port_platform.h>
+
 #include "test/core/bad_client/bad_client.h"
 
 #include <inttypes.h>

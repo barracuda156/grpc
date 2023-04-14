@@ -2,6 +2,8 @@
 
 #ifdef __aarch64__
 
+#include <grpc/support/port_platform.h>
+
 #include <stdio.h>
 #include <stddef.h>
 #include <stdint.h>

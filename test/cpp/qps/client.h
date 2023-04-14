@@ -19,6 +19,8 @@
 #ifndef GRPC_TEST_CPP_QPS_CLIENT_H
 #define GRPC_TEST_CPP_QPS_CLIENT_H
 
+#include <grpc/support/port_platform.h>
+
 #include <inttypes.h>
 #include <stdint.h>
 #include <stdlib.h>
