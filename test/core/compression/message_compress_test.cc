@@ -27,6 +27,7 @@
 #include "gtest/gtest.h"
 
 #include <grpc/compression.h>
+#include <grpc/slice.h>
 #include <grpc/slice_buffer.h>
 #include <grpc/support/log.h>
 

@@ -37,6 +37,8 @@ grpc_cc_test(
         "//:gpr",
         "//:ref_counted_ptr",
         "//src/core:arena",
+        "//src/core:event_engine_memory_allocator",
+        "//src/core:memory_quota",
         "//src/core:resource_quota",
         "//test/core/util:grpc_test_util_unsecure",
     ],
